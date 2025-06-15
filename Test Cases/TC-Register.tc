@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-GetAllListUsers</name>
+   <name>TC-Register</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>095dc428-7442-4167-886e-8eccbd6f84f8</testCaseGuid>
+   <testCaseGuid>e8aa4866-d6fd-4781-bce7-0cc0a6a0772c</testCaseGuid>
 </TestCaseEntity>

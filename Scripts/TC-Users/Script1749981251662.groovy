@@ -17,5 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WS.sendRequestAndVerify(findTestObject('UpdateUserSuccess'))
+WS.sendRequestAndVerify(findTestObject('Users/ListUsers'))
+
+WS.sendRequestAndVerify(findTestObject('Users/SingleUsers'))
 

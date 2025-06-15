@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RegisterSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cbd73a53-be16-4a84-bb4d-1c7dbcf45adf</testCaseGuid>
+</TestCaseEntity>

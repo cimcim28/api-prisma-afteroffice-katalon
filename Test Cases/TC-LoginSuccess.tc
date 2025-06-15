@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-LoginSuccess</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48323eac-0dde-4d1b-a6b1-7f4c3b786225</testCaseGuid>
+</TestCaseEntity>
